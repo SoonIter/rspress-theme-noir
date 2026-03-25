@@ -6,9 +6,9 @@ A warm, editorial-style custom theme for [Rspress](https://rspress.dev) v2, feat
 
 | Light | Dark |
 | :---: | :---: |
-| ![Home Light](/screenshots/screenshot-home.png) | ![Home Dark](/screenshots/screenshot-home-dark.png) |
+| ![Home Light](./screenshot-home.png) | ![Home Dark](./screenshot-home-dark.png) |
 
-![Guide Page](/screenshots/screenshot-guide.png)
+![Guide Page](./screenshot-guide.png)
 
 - Dark-first palette with warm amber/gold brand color
 - Editorial typography: DM Serif Display (headings) + Instrument Sans (body) + JetBrains Mono (code)
