@@ -4,6 +4,12 @@ A warm, editorial-style custom theme for [Rspress](https://rspress.dev) v2, feat
 
 ## Preview
 
+| Light | Dark |
+| :---: | :---: |
+| ![Home Light](/screenshots/screenshot-home.png) | ![Home Dark](/screenshots/screenshot-home-dark.png) |
+
+![Guide Page](/screenshots/screenshot-guide.png)
+
 - Dark-first palette with warm amber/gold brand color
 - Editorial typography: DM Serif Display (headings) + Instrument Sans (body) + JetBrains Mono (code)
 - Custom HomeLayout with animated background orbs, hero section, feature grid, and footer
